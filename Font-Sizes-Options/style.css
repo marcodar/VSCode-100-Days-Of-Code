@@ -1,0 +1,31 @@
+/* one pixel is 1/96 of an inch */
+#pixel{
+    font-size: 20px;
+}
+
+/* one point is 1/72 of an inch */
+#point {
+    font-size: 12pt;
+}
+
+
+#em {
+    font-size: 2em;
+}
+
+#rem {
+    font-size: 2rem;
+}
+
+#percent {
+    font-size: 200%;
+}
+
+
+footer {
+    font-size: 1.5em;
+}
+
+html {
+    font-size: 16px;
+}
